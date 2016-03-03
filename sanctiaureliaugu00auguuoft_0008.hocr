@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiaureliaugu00auguuoft_0008.png"; bbox 0 0 2398 3724; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 547 2041 1913 2110">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 547 2041 1913 2110">
+     <span class='ocr_line' id='line_1_1' title="bbox 547 2041 1913 2110; baseline 0.015 -29"><span class='ocrx_word' id='word_1_1' title='bbox 547 2041 659 2082; x_wconf 82' lang='lat' dir='ltr'>First</span> <span class='ocrx_word' id='word_1_2' title='bbox 691 2047 962 2099; x_wconf 74' lang='lat' dir='ltr'>reprinting,</span> <span class='ocrx_word' id='word_1_3' title='bbox 997 2053 1127 2097; x_wconf 84' lang='lat'>1962,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1159 2048 1369 2099; x_wconf 85' lang='lat' dir='ltr'>Johnson</span> <span class='ocrx_word' id='word_1_5' title='bbox 1402 2054 1596 2106; x_wconf 83' lang='lat' dir='ltr'><strong>Reprint</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1629 2057 1913 2110; x_wconf 85' lang='lat' dir='ltr'>Corportion</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 945 3450 1472 3511">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 945 3450 1472 3511">
+     <span class='ocr_line' id='line_1_2' title="bbox 945 3450 1472 3511; baseline 0.017 -21"><span class='ocrx_word' id='word_1_7' title='bbox 945 3450 1135 3494; x_wconf 83' lang='lat' dir='ltr'>Printed</span> <span class='ocrx_word' id='word_1_8' title='bbox 1162 3457 1209 3495; x_wconf 91' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_9' title='bbox 1236 3455 1472 3511; x_wconf 86' lang='lat' dir='ltr'>Germany</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 834 3595 1577 3650">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 834 3595 1577 3650">
+     <span class='ocr_line' id='line_1_3' title="bbox 834 3595 1577 3650; baseline 0.017 -15"><span class='ocrx_word' id='word_1_10' title='bbox 834 3595 1265 3650; x_wconf 83' lang='lat' dir='ltr'>Lessingdruckerei</span> <span class='ocrx_word' id='word_1_11' title='bbox 1292 3603 1577 3647; x_wconf 84' lang='lat' dir='ltr'>Wiesbaden</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

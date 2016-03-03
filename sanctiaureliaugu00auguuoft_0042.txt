@@ -1,0 +1,11 @@
+H = codex Harleianus n. 3039 saec. X.
+M = codex Monacensis n. 14330 saec. XI.
+P = codex Parisinus n. 13369 saec. IX.
+Τ = codex Trecensis n. 1085 saec. XI.
+
+a = editio Amerbachiana.
+
+m Ξ editio Maurinorum.
+
+cdd. = consensus utriusque editionis.
+
